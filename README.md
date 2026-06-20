@@ -32,4 +32,4 @@ its accuracy.
 
 ## Author
 Esther Nwekoyo
-AI beginner | Aiming for Masters in AI in South Korea
+AI beginner 
