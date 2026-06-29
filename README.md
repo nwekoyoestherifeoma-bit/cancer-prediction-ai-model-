@@ -26,10 +26,5 @@ achieved 97.37% accuracy.
 5. Achieved 97.37% accuracy
 
 ## What I Learned
-This was my first AI project. I learned how to load 
-real data, train a machine learning model and test 
-its accuracy.
+I learned how to load real data, train a machine learning model and test its accuracy.
 
-## Author
-Esther Nwekoyo
-AI beginner 
